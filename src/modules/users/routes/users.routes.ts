@@ -30,5 +30,7 @@ usersRouter.patch('/avatar',
   usersAvatarController.update
   );
 
+
+
 export default usersRouter;
 //importar no shared/http/index.ts
